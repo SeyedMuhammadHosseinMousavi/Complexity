@@ -53,7 +53,26 @@
 - Definition: Combination of linear and logarithmic growth.
 - Example: Merge sort or heap sort.
 - Graph Shape: Curves faster than linear but slower than quadratic.
-
+#### Quadratic Time (𝑂(n2)) class:
+- Definition: Takes the same time regardless of input size.
+- Example: Accessing an element in an array by index.
+- Graph Shape: Flatline.
+#### Quadratic Time (𝑂(n2)) class:
+- Definition: Time grows as the square of input size.
+- Example: Comparing all pairs in a list (e.g., bubble sort).
+- Graph Shape: Parabolic curve.
+#### Cubic Time (𝑂(n3)) class:
+- Definition: Time grows as the cube of input size.
+- Example: Matrix multiplication with brute force.
+- Graph Shape: Steep parabolic curve.
+#### Exponential Time (𝑂(2X)) class:
+- Definition: Time doubles with each additional input.
+- Example: Solving the traveling salesman problem (brute force).
+- Graph Shape: Exponentially steep curve.
+#### Factorial Time (𝑂(n!)) class:
+- Definition: Time grows faster than exponential.
+- Example: Generating all permutations of 𝑛 elements.
+- Graph Shape: Extremely steep curve.
 
 
 
