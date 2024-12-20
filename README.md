@@ -41,19 +41,18 @@
 - Definition: Takes the same time regardless of input size.
 - Example: Accessing an element in an array by index.
 - Graph Shape: Flatline.
-Logarithmic Time (O(log n))class:
-Definition: Time grows slowly as the input size increases.
-Example: Binary search on a sorted list.
-Graph Shape: Slowly increasing curve.
-Linear Time (O(n))class:
-Definition: Time grows directly proportional to the input size.
-Example: Searching for an element in an unsorted list.
-Graph Shape: Straight diagonal line.
-Linearithmic Time (O(n log n))class: 
-Definition: Combination of linear and logarithmic growth.
-Example: Merge sort or heap sort.
-Graph Shape: Curves faster than linear but slower than quadratic.
-![image](https://github.com/user-attachments/assets/a4fd206f-d076-46b9-9fff-5a8de810f39b)
+#### Logarithmic Time (O(log n))class:
+- Definition: Time grows slowly as the input size increases.
+- Example: Binary search on a sorted list.
+- Graph Shape: Slowly increasing curve.
+#### Linear Time (O(n))class:
+- Definition: Time grows directly proportional to the input size.
+- Example: Searching for an element in an unsorted list.
+- Graph Shape: Straight diagonal line.
+#### Linearithmic Time (O(n log n))class: 
+- Definition: Combination of linear and logarithmic growth.
+- Example: Merge sort or heap sort.
+- Graph Shape: Curves faster than linear but slower than quadratic.
 
 
 
