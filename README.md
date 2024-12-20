@@ -31,5 +31,32 @@
 ![2f](https://github.com/user-attachments/assets/bfcf6f3f-3442-4b7c-b7ab-b8e223e954cb)
 ![3f](https://github.com/user-attachments/assets/25caeec8-bd7e-404f-9cac-7536694fb63f)
 ![4f](https://github.com/user-attachments/assets/2fbcd4af-9fbd-46e2-8eb7-b616c9c77123)
+
+
+## Big O – Notation Classes
+- It describes how algorithms grow in terms of resource use (like time or memory) as input size increases.
+- It goes from the fastest/less complex of O(1) to the slowest/most complex of O(n!). 
+- The number of samples, iterations, epochs, data size, and layers affects the complexity.
+#### Constant Time (𝑂(1)) class:
+- Definition: Takes the same time regardless of input size.
+- Example: Accessing an element in an array by index.
+- Graph Shape: Flatline.
+Logarithmic Time (O(log n))class:
+Definition: Time grows slowly as the input size increases.
+Example: Binary search on a sorted list.
+Graph Shape: Slowly increasing curve.
+Linear Time (O(n))class:
+Definition: Time grows directly proportional to the input size.
+Example: Searching for an element in an unsorted list.
+Graph Shape: Straight diagonal line.
+Linearithmic Time (O(n log n))class: 
+Definition: Combination of linear and logarithmic growth.
+Example: Merge sort or heap sort.
+Graph Shape: Curves faster than linear but slower than quadratic.
+![image](https://github.com/user-attachments/assets/a4fd206f-d076-46b9-9fff-5a8de810f39b)
+
+
+
+
 ![5f](https://github.com/user-attachments/assets/3994d6b3-0bb1-42ed-80b2-08062070b3c1)
 ![6f](https://github.com/user-attachments/assets/2d777cb4-b86c-4feb-8b42-44842e80a9c4)
