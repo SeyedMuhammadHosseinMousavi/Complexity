@@ -80,23 +80,23 @@
 ![6f](https://github.com/user-attachments/assets/2d777cb4-b86c-4feb-8b42-44842e80a9c4)
 
 ### Following experiments are conducted:
-- Bees Economic Dispatching Complexity.py
-- CNN Classification Accuracy.py
-- Differential Evolution TSP Complexity.py
-- Genetic Algorithm Clustering Complexity.py
-- Gradient Descent Rosenbrock Complexity.py
-- Hybrid PSO+GA+SA Levy Complexity.py
-- Linear Search Complexity.py
-- Logistic Regression Complexity.py
-- LSTM Forecasting Complexity.py
-- N Queens Complexity.py
-- NaiveBayes Complexity.py
-- PSO Ackley Complexity.py
-- PSO to GA to SA Booth Complexity.py
-- Quick Sort Complexity.py
-- Random Forest Complexity.py
-- Realtime PSO Complexity Adjustment.py
-- VAE Synthetic Data Generation Complexity.py
+- 1. Bees Economic Dispatching Complexity
+- 2. CNN Classification Accuracy
+- 3. Differential Evolution TSP Complexity
+- 4. Genetic Algorithm Clustering Complexity
+- 5. Gradient Descent Rosenbrock Complexity
+- 6. Hybrid PSO+GA+SA Levy Complexity
+- 7. Linear Search Complexity
+- 8. Logistic Regression Complexity
+- 9. LSTM Forecasting Complexity
+- 10. N Queens Complexity
+- 11. NaiveBayes Complexity
+- 12. PSO Ackley Complexity
+- 13. PSO to GA to SA Booth Complexity
+- 14. Quick Sort Complexity
+- 15. Random Forest Complexity
+- 16. Realtime PSO Complexity Adjustment
+- 17. VAE Synthetic Data Generation Complexity
 
 ![image](https://github.com/user-attachments/assets/c6c05a55-84e3-4453-925e-15fc9258c675)
 
