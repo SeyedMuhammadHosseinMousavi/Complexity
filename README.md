@@ -1,5 +1,5 @@
 # Complexity
-Complexity
+
 
 ### Definition
 - The complexity of an algorithm is the amount of resources required to run the algorithm.
@@ -16,6 +16,18 @@ Complexity
 
 
 ![logo](https://github.com/user-attachments/assets/f3f05efe-fe2f-4389-8ef3-f9e0a0723cfd)
+
+### Applications
+- Algorithm Optimization: Identifying inefficiencies in algorithms to improve runtime and memory usage.
+- Scalability Assessment: Ensuring that solutions remain effective as input sizes grow, critical in fields like big data, machine learning, and cloud computing.
+- System Design: Choosing the most suitable algorithms for hardware or software systems based on available resources.
+- Real-Time Applications: Ensuring algorithms meet strict time constraints in systems like robotics, autonomous vehicles, or real-time monitoring.
+- Gaming and Graphics: Optimizing algorithms for rendering, physics simulation, and AI behavior in real-time environments.
+- Network Design: Optimizing routing protocols and resource allocation for efficient communication.
+- Energy Efficiency: Designing algorithms with lower energy consumption for battery-operated or energy-constrained devices.
+- Scientific Simulations: Ensuring computational models in physics, biology, or climate science are efficient and scalable.
+- Artificial Intelligence: Optimizing machine learning algorithms for faster training and inference in AI applications.
+
 ![2f](https://github.com/user-attachments/assets/bfcf6f3f-3442-4b7c-b7ab-b8e223e954cb)
 ![3f](https://github.com/user-attachments/assets/25caeec8-bd7e-404f-9cac-7536694fb63f)
 ![4f](https://github.com/user-attachments/assets/2fbcd4af-9fbd-46e2-8eb7-b616c9c77123)
