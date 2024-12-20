@@ -14,7 +14,6 @@ Complexity
 - This allows for informed decisions when choosing or designing algorithms, ensuring optimal performance and cost-effectiveness, especially for large-scale or resource-constrained applications.
 - Understanding complexity is essential for balancing trade-offs and developing robust, scalable systems.
 
-![image](https://github.com/user-attachments/assets/1a5664e4-031b-4ec5-9a97-3697e9d6a3b7)
 
 ![logo](https://github.com/user-attachments/assets/f3f05efe-fe2f-4389-8ef3-f9e0a0723cfd)
 ![2f](https://github.com/user-attachments/assets/bfcf6f3f-3442-4b7c-b7ab-b8e223e954cb)
